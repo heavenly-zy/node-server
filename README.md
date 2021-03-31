@@ -16,4 +16,4 @@ cd node-server
 tsnd index
 ```
 
-浏览器访问 http://localhost:8888 或使用 curl 命令进行测试。
+浏览器访问 http://localhost:8888 或使用 curl 命令进行测试
